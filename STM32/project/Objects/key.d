@@ -1,0 +1,11 @@
+.\objects\key.o: ..\user\API\key.c
+.\objects\key.o: ..\user\main.h
+.\objects\key.o: ..\user\stm32f10x.h
+.\objects\key.o: ..\CMSIS\core_cm3.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key.o: ..\user\system_stm32f10x.h
+.\objects\key.o: ..\user\API\led.h
+.\objects\key.o: ..\user\API\key.h
+.\objects\key.o: ..\user\API\usart.h
+.\objects\key.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\key.o: ..\user\API\dht11.h
